@@ -1,0 +1,11 @@
+﻿date,passenger_count,weekday_num,weekday,weekday_eng,is_weekend
+2025-01-29,2907370,2,수,Wed,False
+2025-10-06,3129746,0,월,Mon,False
+2025-01-28,3340983,1,화,Tue,False
+2025-01-30,3837607,3,목,Thu,False
+2025-01-01,3949907,2,수,Wed,False
+2025-10-05,4050176,6,일,Sun,True
+2025-10-07,4150106,1,화,Tue,False
+2025-02-02,4755144,6,일,Sun,True
+2025-01-27,4795052,0,월,Mon,False
+2025-01-26,4854780,6,일,Sun,True
