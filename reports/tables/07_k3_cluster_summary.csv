@@ -1,0 +1,4 @@
+﻿k3_cluster_id,k3_cluster_name,number_of_stations,average_weekday_volume,average_orientation_score,average_peak_concentration,average_relative_weekend_index,average_silhouette
+0,업무 유입 중심,49,68002,0.561,0.544,0.859,0.369
+2,혼합 흐름 중심,79,41728,0.011,0.487,1.101,0.241
+1,주거 유출·귀가 중심,112,31332,-0.446,0.509,0.974,0.502
