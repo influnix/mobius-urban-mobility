@@ -1,3 +1,0 @@
-﻿cluster_id,number_of_stations,average_weekday_volume,average_orientation_score,average_peak_concentration,average_relative_weekend_index,average_silhouette,dominant_commute_pattern,interpretation,cluster_name
-0,89,58336.70786516854,0.37728089887640454,0.5150449438202247,0.9829887640449438,0.3492305909277557,업무 유입형,업무 유입 중심,군집 0: 업무 유입 중심
-1,151,32753.880794701985,-0.3652847682119205,0.5052185430463576,0.997615894039735,0.5782222722345058,주거 유출·귀가형,주거 유출·귀가 중심,군집 1: 주거 유출·귀가 중심

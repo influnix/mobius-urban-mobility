@@ -1,4 +1,0 @@
-﻿commute_pattern,number_of_stations,average_weekday_volume,average_orientation_score,average_peak_concentration
-업무 유입형,67,61523,0.475,0.526
-주거 유출·귀가형,125,32729,-0.421,0.506
-혼합형,48,40097,-0.015,0.492
