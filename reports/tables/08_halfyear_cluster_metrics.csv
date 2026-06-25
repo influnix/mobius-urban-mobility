@@ -1,0 +1,3 @@
+﻿k,adjusted_rand_index,normalized_mutual_info,semantic_retention_rate,changed_station_count,unchanged_station_count
+2,0.9338324015284823,0.8889601246619278,0.9833333333333333,4,236
+3,0.8849368030258061,0.8651914661717576,0.9625,9,231
