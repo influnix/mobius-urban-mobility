@@ -1,0 +1,2 @@
+﻿date,day_type,actual_total,baseline_absolute_error,calendar_absolute_error,baseline_ape_pct,calendar_ape_pct,calendar_is_better,ape_difference,comparison_result
+2025-10-05,Public holiday,4050176,1343494.0,1534593.0,33.171249841982174,37.88953862745718,False,4.7182887854750035,worsened
